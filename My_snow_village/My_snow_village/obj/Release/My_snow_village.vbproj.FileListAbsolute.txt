@@ -1,0 +1,37 @@
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\bin\Release\My_snow_village.exe.config
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\bin\Release\My_snow_village.exe
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\bin\Release\My_snow_village.pdb
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\bin\Release\My_snow_village.xml
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.vbproj.AssemblyReference.cache
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.GameForm.resources
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.Resources.resources
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.vbproj.GenerateResource.cache
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.vbproj.CoreCompileInputs.cache
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.exe
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.xml
+C:\Users\PC-38\Desktop\My_snow_village-----최종-12-8\My_snow_village\obj\Release\My_snow_village.pdb
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.exe.config
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.exe
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.pdb
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.xml
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.GameForm.resources
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.Resources.resources
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.exe
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.xml
+C:\Users\user\Desktop\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.pdb
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.exe.config
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.exe
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.pdb
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\bin\Release\My_snow_village.xml
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.GameForm.resources
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.Resources.resources
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.exe
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.xml
+C:\Users\user\Desktop\비쥬얼베이직 기말과제_218124132 이정현\My_snow_village-----최종-12-9\My_snow_village\obj\Release\My_snow_village.pdb

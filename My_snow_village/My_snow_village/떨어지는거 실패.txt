@@ -1,0 +1,36 @@
+If jump_count = False And Not (gro_y = 350) Then '''''''''''''''빠지는거
+            If y > 350 - size_h Then
+                y_spe = +y_spe
+            End If
+            y += y_spe
+
+            For j = 0 To snowgrounds_arr.Count - 1 '
+                Dim newin = CType(snowgrounds_arr(j), snowgrounds)
+                newin.grounds_x += 3
+
+                snowgrounds_arr(j) = newin
+            Next
+            bg_x += 4
+
+        End If
+
+
+        If y > 380 Then ''''''''''''''''''''''''''''''''''''''''''''떨어짐
+            Timer1.Stop()
+            Label1.Text = y
+
+        End If
+
+
+
+
+            If i Mod 5 = 0 Then
+                b += 400
+
+                addgrouds(100 + a, 350 + b)
+                a = a + 50
+                addgrouds(100 + a, 350 + b)
+
+                b -= 400
+            Else
+ End If
