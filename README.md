@@ -4,7 +4,7 @@ My first game
 (Snow man jumping game)
 
 ![캡처1](https://user-images.githubusercontent.com/100923108/207620595-292b029d-e843-4df6-9faf-67c2bc66bd3d.PNG)
-//<start screen>
+[start screen]
 
 
 ![캡처3](https://user-images.githubusercontent.com/100923108/207620616-d56ba87c-2da9-4715-918c-1cdd0af33e48.PNG)
