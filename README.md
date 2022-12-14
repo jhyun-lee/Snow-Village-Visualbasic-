@@ -1,4 +1,4 @@
-# Snow Villagee-Visualbasic
+# Snow Village-Visualbasic
 
 My first game 
 (Snow man jumping game)
