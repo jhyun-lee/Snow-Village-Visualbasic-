@@ -4,11 +4,11 @@ My first game
 (Snow man jumping game)
 
 ![캡처1](https://user-images.githubusercontent.com/100923108/207620595-292b029d-e843-4df6-9faf-67c2bc66bd3d.PNG)
-#<start screen>
+//<start screen>
 
 
 ![캡처3](https://user-images.githubusercontent.com/100923108/207620616-d56ba87c-2da9-4715-918c-1cdd0af33e48.PNG)
-#<How to use>
+//<How to use>
 
 
 ![캡처](https://user-images.githubusercontent.com/100923108/207620630-3dcd96fd-2a79-4fab-b377-a93b0f6c9369.PNG)
