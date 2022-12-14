@@ -1,4 +1,4 @@
-# Snow_vilige-Visualbasic
+# Snow Villagee-Visualbasic
 
 My first game 
 (Snow man jumping game)
